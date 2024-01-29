@@ -1,0 +1,10 @@
+header{
+    background-color: var(--accent, #161D30);
+    color: #fff;
+    height: 67px;
+    width: 1920px;
+    font-size: 18px;
+}
+.p-2{
+    color: #fff;
+}
